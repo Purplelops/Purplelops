@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Purplelops
-- 👀 I’m interested in Game / Web development
-- 🌱 I’m currently learning Godot and Javascript
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me Purplelops@gmail.com
+- 👀 I’m interested in game development using the Godot game engine as well as web development
+- 📫 You can reach me at Purplelops@gmail.com
 
 <!---
 Purplelops/Purplelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
